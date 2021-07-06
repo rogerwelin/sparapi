@@ -1,7 +1,7 @@
 ### SparAPI
 
 **Info**  
-Uses the 2019.1 version of the Spar API. SPAR (Statens person­adress­register) is a service used to fetch information about all registered citizens in Sweden.
+Uses the 2019.1 version of the Spar API. SPAR (Statens person­adress­register) is a service used to fetch information about all registered citizens and residents in Sweden.
 
 
 **Prerequisites**  
